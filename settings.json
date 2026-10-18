@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "ServerBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Survival69SMP.aternos.me",
-    "port": 46157,
+    "ip": "survival69smp.mcsh.gg",
+    "port": 10378,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
